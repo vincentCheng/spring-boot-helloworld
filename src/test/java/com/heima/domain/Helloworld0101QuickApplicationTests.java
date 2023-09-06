@@ -1,4 +1,4 @@
-package com.heima.helloworld_01_01_quick;
+package com.heima.domain;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
